@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #222221;
+        font-size: 45.97px;
+      }
+
+      .st0, .st1 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .st2 {
+        fill: #fff;
+      }
+
+      .st1 {
+        font-size: 25.07px;
+      }
+
+      .st1, .st3 {
+        fill: #dc9025;
+      }
+
+      .st4 {
+        fill: #292c3b;
+      }
+    </style>
+  </defs>
+  <rect class="st2" x="-5.16" y="-5.16" width="515.7" height="515.7"/>
+  <polygon class="st3" points="191.68 122.72 154.37 188.91 191.68 253.49 251.05 253.49 230.19 219.39 229.38 233.84 202.71 233.84 178.04 188.1 202.71 142.77 211.73 142.37 200.9 122.72 191.68 122.72"/>
+  <polygon class="st4" points="271.51 253.49 297.58 253.49 335.29 188.1 297.18 122.72 239.81 122.72 258.67 156.16 261.83 142.02 286.2 141.72 312.42 188.1 285.6 235.29 219.76 122.72 195.79 122.72 271.51 253.49"/>
+  <text class="st0" transform="translate(59.49 331.72)"><tspan x="0" y="0">JLOY SERVICIOS</tspan></text>
+  <text class="st1" transform="translate(59.08 377.28)"><tspan x="0" y="0">Reformas integrales</tspan></text>
+  <rect class="st3" x="328.48" y="371.04" width="112.44" height=".84" transform="translate(-2.17 2.26) rotate(-.34)"/>
+</svg>
